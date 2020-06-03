@@ -1,0 +1,247 @@
+
+body{
+	background:rgb(26,26,26); 	
+	font-size:100%;
+	font-family: cursive;  
+}
+
+p{
+	color:white;
+	font-family: sans-serif;
+	font-size: 20px;
+	word-spacing: 5px;
+	text-shadow: 1px 1px 1px #000	;	
+}
+.header {
+	position:relative; 
+	color:rgb(237,105,20);
+	background:black;
+	height:200px;
+	bottom:15px;
+	width:100%;
+}
+
+.header h3{
+	width: 400px;
+	height: 400px;
+}
+
+.nombre {
+	position:relative;
+	top:-10px;
+	left:230px;
+	font-family:arial;  
+}
+.footer{
+	  background:#000;
+ 	color:#fff;			
+ 	bottom: 0px;
+ 	line-height: 3;
+ 	text-align: center;
+ 	align-self: flex-end;
+ 	width: 100%; 
+ 	top:-100px; 
+ 	height:600%; 
+ 	font-size:25px;    
+}
+
+.Generos{
+ 	background:silver;
+ 	position: relative;
+ 	top: -15px;
+ }
+
+ .año{
+ 	background:silver;
+ 	position: relative;
+ 	top: -15px;
+ }
+ .temp{
+ 	background:silver;
+ 	position: relative;
+ 	top: -15px;
+ }
+
+  .estado{
+ 	background:silver;
+ 	position: relative;
+ 	top:-15px;
+ }
+ 
+ img{
+ 	width:460px;
+ 	height: 550px;
+ }
+
+ .logotipo{
+ 	width:150px;
+ 	height:130px; 
+ 	position: relative;
+ 	top:50px;
+ 	left: 50px;
+ }
+
+ .cap{
+ 	background:silver;
+ 	position: relative;
+ 	top:-15px;
+ }
+ ul,ol{
+ 	list-style:none;
+ 	width: 100%
+ }
+
+.img-1{
+	width:750px;
+	height: 650px;
+	position: relative;
+	left: 180px;
+	border-image: black;
+
+}
+
+section{
+	position: relative;
+	top: -45px;
+}
+
+
+.titular{
+	font-size: 43px;
+	color: white;
+	position: relative;
+	left: 20px;
+}
+
+.par1{
+	background: rgb(38, 38, 38)
+}
+
+.par2{
+	background: rgb(38, 38, 38)
+}
+
+.par3{
+	background: rgb(38, 38, 38)
+}
+
+.par4{
+	background: rgb(38, 38, 38)
+}
+
+h3{
+	color: rgb(230, 230, 230);
+	text-shadow: 1px 1px 1px #000	;
+}
+
+h2{
+	color: rgb(230, 230, 230);
+	text-shadow: 1px 1px 1px #000	;
+	font-family: cursive;
+}
+
+h1{
+	color: rgb(230, 230, 230);
+	text-shadow: 1px 1px 1px #000;
+}
+
+.cla-blue{
+	color: rgb(0, 102, 0);
+}
+
+.cla-red{
+	color: rgb(204, 0, 0);
+}
+
+p a{
+	;
+}
+
+.container-fluid nav ul li{
+	display: inline;
+	background-color:rgb(26,26,26);
+	border-radius:3;
+	align-content: center;
+	float: left;
+	width: 224,6px;
+}
+
+.container-fluid nav ul li a{
+	display: inline-block;
+	padding: 10px 15px;
+	color: rgb(230,230,230);
+	text-decoration: none;
+	line-height: 1;
+	width: 216px;
+	text-align: center;
+}
+
+.container-fluid nav ul{
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+	top: -15px;	
+}
+
+.container-fluid nav ul li a:hover{
+	background-color: rgb(255, 153, 51);
+}
+
+.container-fluid nav ul li a{
+	border-radius: 10px;
+	border-color: black;
+}
+
+div.container-fluid nav{
+	position: static;
+	width:100%; 
+}
+
+hr{
+	padding: .5px;
+	background: black;
+	position: relative;
+	width: 100%;
+}
+
+.noticia{
+	position: relative;
+
+}
+
+.articulo{
+	background:rgb(140,140,140); 
+}
+
+.fuente{
+	position: relative;
+	top: -6px;
+}
+
+.fuente a:hover{
+		background-color: gray;
+}
+
+.fuente a{
+	color: black;
+}
+
+.container{
+	background:gray ;
+}
+
+button{
+	position: relative;
+	top: -400px;
+	left: 770px;
+	width: 150px;
+	background:rgb(26,26,26);
+}
+
+button a:hover{
+	color: gray; 	
+}
+
+button a{
+	color: white;
+}
